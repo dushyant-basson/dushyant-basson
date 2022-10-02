@@ -1,4 +1,4 @@
-I’m looking to collaborate on PHP, C++ projects.
+Looking to collaborate on PHP, C++ projects.
 
 <!---
 onizu-db/onizu-db is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
